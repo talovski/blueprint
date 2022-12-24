@@ -1,0 +1,21 @@
+{
+  "name": "blueprint",
+  "displayName": "Blueprint",
+  "description": "Low constrast blue-ish theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Blueprint",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Blueprint-color-theme.json"
+      }
+    ]
+  }
+}
