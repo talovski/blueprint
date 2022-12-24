@@ -1,16 +1,11 @@
-# blueprint README
+## Blueprint theme
 
-## Working with Markdown
+![Screenshot](screenshot.png)
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+Solid blue theme with minimal highlighting and relatively modest constrast. I decided to create this theme when I was suffering from migraine and every theme was way too contrast for my tired eyes.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+The aesetetics of old-timey blueprints was a major inspiration. Overall, this theme attempts to use warm colors for syntax highlighting while staying coldish blue in the background. It might not be everyone's cup of tea, but it helped me struggle through a couple of migraines.
 
-## For more information
+The colors are insipired by one of [Zed Editor](https://zed.dev) themes, and tokens are based on Nord Theme tokens. Philosophically I was also inspired by Niki Tonsky's Alebaster theme for [Sublime Text](https://github.com/tonsky/sublime-scheme-alabaster) and [VS Code](https://github.com/tonsky/vscode-theme-alabaster).
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+I have only tested this theme with a TypeScript project, and I am not sure how well this theme will play with other languages. I am always open to suggestions and bug reports tho :)

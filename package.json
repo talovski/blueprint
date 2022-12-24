@@ -1,7 +1,7 @@
 {
   "name": "blueprint",
   "displayName": "Blueprint",
-  "description": "Low constrast blue-ish theme",
+  "description": "Solid blue theme with low constast and warm colors",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.74.0"
