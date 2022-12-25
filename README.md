@@ -1,6 +1,6 @@
 ## Blueprint theme
 
-![Screenshot](screenshot.png)
+![Screenshot](https://cdn.jsdelivr.net/gh/talovski/blueprint@main/screenshot.png)
 
 Solid blue theme with minimal highlighting and relatively modest constrast. I decided to create this theme when I was suffering from migraine and every theme was way too contrast for my tired eyes.
 
