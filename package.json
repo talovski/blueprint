@@ -14,6 +14,10 @@
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/talovski/blueprint"
+  },
   "contributes": {
     "themes": [
       {
