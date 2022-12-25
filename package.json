@@ -1,11 +1,16 @@
 {
   "name": "blueprint",
-  "displayName": "Blueprint",
+  "displayName": "Blueprint Theme",
   "description": "Solid blue theme with low constast and warm colors",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.74.0"
   },
+  "license": "MIT",
+  "maintainers": [
+    "nika talovski <talovskx@gmail.com>"
+  ],
+  "icon": "icon.png",
   "categories": [
     "Themes"
   ],
