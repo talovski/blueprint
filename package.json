@@ -16,7 +16,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/talovski/blueprint"
+    "url": "https://github.com/talovski/blueprint.git"
   },
   "contributes": {
     "themes": [
@@ -26,5 +26,6 @@
         "path": "./themes/Blueprint-color-theme.json"
       }
     ]
-  }
+  },
+  "publisher": "talovskx"
 }
